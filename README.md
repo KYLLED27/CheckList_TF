@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ### 4. Configurar as variáveis de ambiente
 
-O projeto usa Supabase. Verifique o arquivo `chaves.env` e preencha com seus dados:
+O projeto usa Supabase. Renomeie o arquivo `exemplo.env` para `chaves.env` e preencha com seus dados:
 
 ```env
 SUPABASE_URL=sua_url_do_supabase
